@@ -90,20 +90,6 @@ Automation
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gemechis10\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechis10\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gemechis10\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🌱 My Goal
 
 > To become a skilled software developer capable of building scalable web applications and intelligent AI-powered solutions.
